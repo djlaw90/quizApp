@@ -2,11 +2,32 @@ body {
   color: red;
 }
 
-#question-box {
+#answer-box {
   border: 1px solid black;
-  margin-top: 10vh;
+  margin-top: 5vh;
+  padding: 2em;
 }
 
 .hidden {
   display: none;
+}
+
+h1 {
+  margin-top: 10vh !important;
+}
+
+#radio-only {
+  width: 75px;
+}
+
+#info-box {
+  margin-top: 15em !important;
+}
+
+#next-button {
+  margin-top: 3vh;
+}
+
+label {
+  font-size: 1.2em;
 }
