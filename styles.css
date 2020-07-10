@@ -31,3 +31,8 @@ h1 {
 label {
   font-size: 1.2em;
 }
+
+#mario {
+  margin-top: 4vh;
+  width: 4em;
+}
